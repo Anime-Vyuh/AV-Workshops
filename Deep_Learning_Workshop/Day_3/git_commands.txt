@@ -1,0 +1,23 @@
+git init - to initialize the git
+create project files/ use existing project
+
+git status - to check the status of your project file.
+
+git add - to track the files
+git commit -m "any message" - to stage or it is used to save the changes
+
+Once this done, working tree is clean
+
+git log - it is used to view commit history.
+
+Push to Github
+
+1. Create new repo on Github
+
+2. git clone <link> = remote repo to local repo
+Make some file/do modification
+3. git add . or git add *
+4. git commit -m "message"
+
+Network command:
+5. git push - it will send your code from local repo to back to remote repo
