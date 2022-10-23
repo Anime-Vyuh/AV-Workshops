@@ -4,7 +4,7 @@ The wait is finally over, we are launching AV Workshops, A 2-3 Days Technical Wo
 
 ## Why AV Workshops?
 
-### 5 Good Reasons why this Workshop is different
+### 5 Good Reasons why these Workshops are different
 
 1. Complete End to End project Implementation- Learn by Doing instead of watching boring Slides.
 
