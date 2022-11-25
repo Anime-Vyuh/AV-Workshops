@@ -17,3 +17,10 @@ The wait is finally over, we are launching AV Workshops, A 2-3 Days Technical Wo
 5. Workshop Conclusion will guide on Open Source contributions. The assessment submission will be Open Sourced, so with these workshops, you will also get an Open Source idea by learning Git commands.
 
 #### Speaker Portfolio: [Tarun Jain](https://tarunjain.netlify.com/)
+
+## Supported by
+
+<figure>
+<img src="https://user-images.githubusercontent.com/66197713/204031743-cf340ab8-20e9-4e89-aaaf-6bf8e8ad1c77.png" width=25% height=25%>
+<figcaption> Jetbrains User Group Community supports AV Workshops with 1-year subscription to any of their IDEs </figcaption>
+</figure>
